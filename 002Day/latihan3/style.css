@@ -1,0 +1,10 @@
+h1{
+    font-size: 50px;
+    color: aqua;
+
+}
+p{
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 10px;
+}
