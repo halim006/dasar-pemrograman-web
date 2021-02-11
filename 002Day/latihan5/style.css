@@ -1,0 +1,19 @@
+body{
+    font-family: monospace;
+}
+h1{
+    color: tomato;
+}
+ul li a{
+    color: rgb(47, 0, 255);
+}
+ol li a{
+    color: green;
+}
+
+.p1{
+    color: blue;
+}
+.wkwk{
+    color: rgb(255, 0, 0);
+}
