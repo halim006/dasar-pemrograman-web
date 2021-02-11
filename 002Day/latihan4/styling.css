@@ -1,0 +1,8 @@
+html{
+    background-image: url(oriental-tiles.png) ;
+    /* background-repeat: no-repeat; */
+    /* background-position: center center; */
+}
+h1, p{
+    color: rgb(250, 0, 0);
+}
