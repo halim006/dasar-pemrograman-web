@@ -1,27 +1,24 @@
-.selamat :link{
-color: yellow;
-}
-.selamat :hover{
-    font-family: arial;
-    font-size: 30px;
-    color: black;
-}
-.selamat :active{
-    color: blue;
-}
-.selamat :visited{
+.hello:link{
+    color: orange;
+  }
+  .hello:hover {
     color: green;
-}
-li :first-child a{
-    color: hotpink;
-}
-/* n(kelipatan) even(genap) odd(ganjil) */
-li :nth-child(2n) a{
+    font-family: arial;
+    font-size: 20px;
+  }
+  .hello:active{
+    font style: italic;
+  }
+  .hello:visited {
     color: red;
-}
-p :first-of-type{
-    color: blue;
-}
+  }
 
-
-
+  li:nth-child(odd) a{
+    color: green;
+  }
+  li:nth-child(odd) a:hover {
+    color: red;
+  }
+  p first-of-type{
+    color: red;
+  }
