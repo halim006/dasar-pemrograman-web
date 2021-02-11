@@ -1,0 +1,27 @@
+.selamat :link{
+color: yellow;
+}
+.selamat :hover{
+    font-family: arial;
+    font-size: 30px;
+    color: black;
+}
+.selamat :active{
+    color: blue;
+}
+.selamat :visited{
+    color: green;
+}
+li :first-child a{
+    color: hotpink;
+}
+/* n(kelipatan) even(genap) odd(ganjil) */
+li :nth-child(2n) a{
+    color: red;
+}
+p :first-of-type{
+    color: blue;
+}
+
+
+
