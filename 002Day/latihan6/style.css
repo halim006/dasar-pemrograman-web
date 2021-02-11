@@ -1,7 +1,7 @@
 .hello:link{
     color: orange;
   }
-  .hello:hover {
+.hello:hover {
     color: green;
     font-family: arial;
     font-size: 20px;
@@ -19,6 +19,6 @@
   li:nth-child(odd) a:hover {
     color: red;
   }
-  p first-of-type{
+  p:first-of-type{
     color: red;
   }
