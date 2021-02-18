@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/php-dasar.iml" filepath="$PROJECT_DIR$/.idea/php-dasar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Public/Documents/php_OOP/.idea/php_OOP.iml" filepath="$PROJECT_DIR$/../../../Public/Documents/php_OOP/.idea/php_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../php_todolist/.idea/php_todolist.iml" filepath="$PROJECT_DIR$/../php_todolist/.idea/php_todolist.iml" />
+    </modules>
+  </component>
+</project>
